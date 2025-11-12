@@ -1,0 +1,8 @@
+# Ignore Gradle and build files
+.gradle/
+build/
+out/
+target/
+.classpath
+.project
+.settings/
